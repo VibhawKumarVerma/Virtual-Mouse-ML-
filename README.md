@@ -66,7 +66,30 @@ python VirtualMouseProject.py
 ```bash
 Virtual Mouse/
 ├── __pycache__
-├── Hand
-├── package.json
-└── README.md
+├── HandTrackingModule.py
+├── README.md
+├── Virtual Mouse.mp4
+└── VirtualMouseProject.py
 ```
+
+## ⚠️ Limitations
+
+- May struggle in low-light conditions
+
+- Requires stable background for better gesture recognition
+
+- May not work well with gloves or covered hands
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 🙌 Acknowledgements
+
+- MediaPipe
+
+- OpenCV
+
+- PyAutoGUI
+
+## 
